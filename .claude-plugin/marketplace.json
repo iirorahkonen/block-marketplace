@@ -13,8 +13,8 @@
       "version": "1.0.0",
       "description": "File and directory protection using .claude-block configuration files",
       "source": {
-        "source": "github",
-        "repo": "iirorahkonen/claude-block"
+        "source": "url",
+        "url": "https://github.com/iirorahkonen/claude-block.git"
       },
       "strict": true
     }
