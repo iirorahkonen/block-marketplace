@@ -16,4 +16,4 @@ A Claude Code plugin marketplace for directory protection tools.
 
 ## Available Plugins
 
-- **claude-block** - File and directory protection using `.claude-block` marker files
+- **claude-block** - File and directory protection using `.claude-block` configuration files
