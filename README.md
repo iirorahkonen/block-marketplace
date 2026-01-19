@@ -1,4 +1,4 @@
-# claude-block-marketplace
+# block-marketplace
 
 A Claude Code plugin marketplace for directory protection tools.
 
@@ -6,14 +6,14 @@ A Claude Code plugin marketplace for directory protection tools.
 
 1. Add the marketplace:
    ```
-   /plugin marketplace add iirorahkonen/claude-block-marketplace
+   /plugin marketplace add iirorahkonen/block-marketplace
    ```
 
 2. Install the plugin:
    ```
-   /plugin install claude-block@claude-block-marketplace
+   /plugin install block@block-marketplace
    ```
 
 ## Available Plugins
 
-- **claude-block** - File and directory protection using `.claude-block` configuration files
+- **block** - File and directory protection using `.block` configuration files

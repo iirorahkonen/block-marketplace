@@ -1,5 +1,5 @@
 {
-  "name": "claude-block-marketplace",
+  "name": "block-marketplace",
   "owner": {
     "name": "Iiro Rahkonen"
   },
@@ -9,12 +9,12 @@
   },
   "plugins": [
     {
-      "name": "claude-block",
+      "name": "block",
       "version": "1.0.1",
-      "description": "File and directory protection using .claude-block configuration files",
+      "description": "File and directory protection using .block configuration files",
       "source": {
         "source": "url",
-        "url": "https://github.com/iirorahkonen/claude-block.git"
+        "url": "https://github.com/iirorahkonen/block.git"
       },
       "strict": true
     }
